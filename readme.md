@@ -1,4 +1,4 @@
-## Commit best practices {#commit-best-practices}
+## 18.6 Commit best practices 
 
 Ideally, each commit should be _minimal_ but _complete_:
 
